@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="9%/GwReQLuAHbVRx_]ub" x="0" y="0"></block><block type="device_forever" id="1GJ8^qX126Vt.d+rzur`" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="ZnMG?$v|mk1u8)F%vBSE"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="MKRQ#wfDGwfx2{xN6VG/"><value name="pause"><shadow type="timePicker" id="Pl{Ipf*h[40#tAw(_|;Q"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="/p1kWDKH{0[pD6L$`],Y"><field name="LEDS">`
+        # # # # # 
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_number" id="Dg4K{7f8D%P+RfkNEI;3"><value name="number"><shadow type="math_number" id="D-y0QX!H99cJM;.25)`S"><field name="NUM">1000</field></shadow></value><next><block type="device_show_leds" id="zO/w30Khb.]$$GYYcMx?"><field name="LEDS">`
+        # # # # # 
+        . # # # . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_number" id="z_jY`A|hCHahG3U{ZCF~"><value name="number"><shadow type="math_number" id="Fu5=.wcyh?~Q]`W]a.9C"><field name="NUM">1000</field></shadow></value><next><block type="device_show_leds" id="#QK?,hR*12[_gk{qih[I"><field name="LEDS">`
+        # # # # # 
+        . # . # . 
+        . . # . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_number" id="}mD||[PtX/5Fb7~DVfKK"><value name="number"><shadow type="math_number" id="PB(qct^Ls@l}nFLND;.-"><field name="NUM">1000</field></shadow></value><next><block type="device_show_leds" id="v%2q),!9-EA9a:Fc#i@W"><field name="LEDS">`
+        # # # # # 
+        . # . # . 
+        . . # . . 
+        . # # # . 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
